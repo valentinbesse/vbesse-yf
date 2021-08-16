@@ -10,6 +10,8 @@ I'm a passionate Software Developer with a desire to explore more about computer
 
 *   📫 How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:valentin.besse@ypso-facto.com" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
 
+*   :sunglasses: My personnal GitHub account: <a href="https://github.com/valentinbesse" ><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=&style=flat" /> </a>
+
     
 
 # Have worked in:
