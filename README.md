@@ -53,6 +53,6 @@ I'm a passionate Software Developer with a desire to explore more about computer
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
 />
 
-![vbesse-yf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vbesse)
+![vbesse-yf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vbesse&layout=compact)
 
 
