@@ -52,5 +52,5 @@ I'm a passionate Software Developer with a desire to explore more about computer
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=vbesse&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=vbesse&layout=compact&range=last_7_days"
 />
