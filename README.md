@@ -45,7 +45,7 @@ I'm a passionate Software Developer with a desire to explore more about computer
 
 <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=CentOS&logoColor=white&style=flat" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=vbesse-yf&count_private=true&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vbesse-yf&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
