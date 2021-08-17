@@ -1,20 +1,13 @@
-# Hi, it's Valentin here 👋
+### Hi, it's Valentin here 👋
 
 I'm a passionate Software Developer with a desire to explore more about computer science and software development :smile: 
-
 *   :man_technologist: I'm currently working on - Collaborative applications' development and DevOps pipeline.
-
 *   :books: I'm currently learning - Javascript, TypeScript and Design Pattern.
-
 *   :speech_balloon: Ask me about - Powershell, VB.NET, C#, Azure, Matlab.
-
 *   📫 How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:valentin.besse@ypso-facto.com" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
-
 *   :sunglasses: My personnal GitHub account: <a href="https://github.com/valentinbesse" ><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=&style=flat" /> </a>
 
-    
-
-# Have worked in:
+### Have worked in:
 
  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
 
@@ -34,7 +27,7 @@ I'm a passionate Software Developer with a desire to explore more about computer
 
  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0078d4?logo=Microsoft+Azure&logoColor=white&style=flat" />
 
-## Version Control and Development tools used:
+### Version Control and Development tools used:
 
  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
 
@@ -42,7 +35,7 @@ I'm a passionate Software Developer with a desire to explore more about computer
 
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 
-## Operating System familiar with
+### Operating System familiar with
 
  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 
@@ -59,4 +52,7 @@ I'm a passionate Software Developer with a desire to explore more about computer
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
 />
+
+![vbesse-yf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vbesse)
+
 
